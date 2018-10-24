@@ -73,7 +73,7 @@ Call: 2
 Answer: 1
 a(3) a(4) b(1)
 Solving...
-UNSATISFIAB:!LE
+UNSATISFIABLE
 
 Models       : 2
 Calls        : 3
